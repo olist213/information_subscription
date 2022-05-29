@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Subscriptions of 213 olist from Inoreader [https://www.inoreader.com]</title>
+    <title>Feeds of 213 olist from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
     <outline text="01-网络安全" title="01-网络安全">
-      <outline text="C0cho's blog" title="C0cho's blog" type="rss" xmlUrl="https://choge.top/atom.xml" htmlUrl="https://choge.top/"/>
-      <outline text="zu1k" title="zu1k" type="rss" xmlUrl="https://lgf.im/index.xml" htmlUrl="https://lgf.im/"/>
-      <outline text="LichtenBytes" title="LichtenBytes" type="rss" xmlUrl="https://mlichtenberg.wordpress.com/feed/" htmlUrl="https://mlichtenberg.wordpress.com"/>
-      <outline text="国光" title="国光" type="rss" xmlUrl="https://www.sqlsec.com/atom.xml" htmlUrl="https://www.sqlsec.com/"/>
-      <outline text="Netsparker, Web Application Security Scanner" title="Netsparker, Web Application Security Scanner" type="rss" xmlUrl="http://feeds.feedburner.com/netsparker" htmlUrl="https://www.netsparker.com/blog/"/>
-      <outline text="Personnal security blog" title="Personnal security blog" type="rss" xmlUrl="https://thibaud-robin.fr/index.xml" htmlUrl="https://thibaud-robin.fr/"/>
-      <outline text="Panda - 专注于网络空间安全研究" title="Panda - 专注于网络空间安全研究" type="rss" xmlUrl="https://www.cnpanda.net/feed/" htmlUrl="https://www.cnpanda.net/"/>
-      <outline text="n00py Blog" title="n00py Blog" type="rss" xmlUrl="https://www.n00py.io/feed/" htmlUrl="https://www.n00py.io/"/>
-      <outline text="SecureLayer7" title="SecureLayer7" type="rss" xmlUrl="https://blog.securelayer7.net/feed/" htmlUrl="https://blog.securelayer7.net/"/>
-      <outline text="Ayşe Bilge Gündüz" title="Ayşe Bilge Gündüz" type="rss" xmlUrl="https://aysebilge.com/feed/" htmlUrl="https://aysebilge.com"/>
-      <outline text="Mrxn's Blog" title="Mrxn's Blog" type="rss" xmlUrl="https://mrxn.net/rss.php" htmlUrl="https://mrxn.net/"/>
-      <outline text="博客园_安全日常搬砖笔记" title="博客园_安全日常搬砖笔记" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/262226/rss/" htmlUrl="http://feed.cnblogs.com/blog/u/262226/rss/"/>
-      <outline text="博客园_nul1" title="博客园_nul1" type="rss" xmlUrl="https://www.cnblogs.com/nul1/rss" htmlUrl="https://www.cnblogs.com/nul1/rss"/>
+      <outline text="信息安全知识库" title="信息安全知识库" type="rss" xmlUrl="https://www.vipread.com/feed" htmlUrl="https://vipread.com/"/>
+      <outline text="Hacking8 安全信息流 via rss-proxy" title="Hacking8 安全信息流 via rss-proxy" type="rss" xmlUrl="https://rssproxy-v1.migor.org/api/feed?url=https%3A%2F%2Fi.hacking8.com%2F&amp;pContext=%2F%2Fbody%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Ftable%5B1%5D%2Ftbody%5B1%5D%2Ftr&amp;pLink=.%2Ftd%5B3%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fa%5B1%5D&amp;x=s" htmlUrl="https://i.hacking8.com/"/>
       <outline text="nMask's Blog" title="nMask's Blog" type="rss" xmlUrl="https://thief.one/atom.xml" htmlUrl="http://thief.one/"/>
+      <outline text="C0cho's blog" title="C0cho's blog" type="rss" xmlUrl="https://choge.top/atom.xml" htmlUrl="https://choge.top/"/>
+      <outline text="Ayşe Bilge Gündüz" title="Ayşe Bilge Gündüz" type="rss" xmlUrl="https://aysebilge.com/feed/" htmlUrl="https://aysebilge.com"/>
+      <outline text="博客园_安全日常搬砖笔记" title="博客园_安全日常搬砖笔记" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/262226/rss/" htmlUrl="http://feed.cnblogs.com/blog/u/262226/rss/"/>
+      <outline text="SecureLayer7" title="SecureLayer7" type="rss" xmlUrl="https://blog.securelayer7.net/feed/" htmlUrl="https://blog.securelayer7.net/"/>
+      <outline text="n00py Blog" title="n00py Blog" type="rss" xmlUrl="https://www.n00py.io/feed/" htmlUrl="https://www.n00py.io/"/>
+      <outline text="Panda - 专注于网络空间安全研究" title="Panda - 专注于网络空间安全研究" type="rss" xmlUrl="https://www.cnpanda.net/feed/" htmlUrl="https://www.cnpanda.net/"/>
+      <outline text="Personnal security blog" title="Personnal security blog" type="rss" xmlUrl="https://thibaud-robin.fr/index.xml" htmlUrl="https://thibaud-robin.fr/"/>
+      <outline text="Netsparker, Web Application Security Scanner" title="Netsparker, Web Application Security Scanner" type="rss" xmlUrl="http://feeds.feedburner.com/netsparker" htmlUrl="https://www.netsparker.com/blog/"/>
+      <outline text="国光" title="国光" type="rss" xmlUrl="https://www.sqlsec.com/atom.xml" htmlUrl="https://www.sqlsec.com/"/>
+      <outline text="Mrxn's Blog" title="Mrxn's Blog" type="rss" xmlUrl="https://mrxn.net/rss.php" htmlUrl="https://mrxn.net/"/>
+      <outline text="zu1k" title="zu1k" type="rss" xmlUrl="https://lgf.im/index.xml" htmlUrl="https://lgf.im/"/>
+      <outline text="Tech Vomit" title="Tech Vomit" type="rss" xmlUrl="https://techvomit.net/rss/" htmlUrl="https://techvomit.net/"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="博客园_nul1" title="博客园_nul1" type="rss" xmlUrl="https://www.cnblogs.com/nul1/rss" htmlUrl="https://www.cnblogs.com/nul1/rss"/>
       <outline text="博客园_Escape" title="博客园_Escape" type="rss" xmlUrl="https://www.cnblogs.com/escape-w/rss" htmlUrl="https://www.cnblogs.com/escape-w/rss"/>
       <outline text="SecurityCTF : CTF announcements &amp; writeups" title="SecurityCTF : CTF announcements &amp; writeups" type="rss" xmlUrl="https://www.reddit.com/r/securityCTF/.rss" htmlUrl="https://www.reddit.com/r/securityCTF/"/>
       <outline text="Swing'Blog |二进制安全|CTF|Python" title="Swing'Blog |二进制安全|CTF|Python" type="rss" xmlUrl="http://bestwing.me/atom.xml" htmlUrl="http://bestwing.me/"/>
       <outline text="博客园_王叹之" title="博客园_王叹之" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/506541/rss/" htmlUrl="http://feed.cnblogs.com/blog/u/506541/rss/"/>
       <outline text="Just Another Simple Write-Up" title="Just Another Simple Write-Up" type="rss" xmlUrl="http://www.firstsight.me/feed/" htmlUrl="http://www.firstsight.me"/>
-      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
-      <outline text="Tech Vomit" title="Tech Vomit" type="rss" xmlUrl="https://techvomit.net/rss/" htmlUrl="https://techvomit.net/"/>
+      <outline text="Blog" title="Blog" type="rss" xmlUrl="https://hosch3n.github.io/atom.xml" htmlUrl="https://hosch3n.github.io/"/>
+      <outline text="博客园_雨九九" title="博客园_雨九九" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/412378/rss/" htmlUrl="http://feed.cnblogs.com/blog/u/412378/rss/"/>
+      <outline text="《密码保护：Apache Solr DataImport 内存马注入》的评论" title="《密码保护：Apache Solr DataImport 内存马注入》的评论" type="rss" xmlUrl="http://wjlshare.com/archives/1642/feed" htmlUrl="http://wjlshare.com/archives/1642"/>
+      <outline text="LichtenBytes" title="LichtenBytes" type="rss" xmlUrl="https://mlichtenberg.wordpress.com/feed/" htmlUrl="https://mlichtenberg.wordpress.com"/>
       <outline text="lsh4ck's Blog" title="lsh4ck's Blog" type="rss" xmlUrl="https://www.lshack.cn/feed/" htmlUrl="https://www.lshack.cn/"/>
+      <outline text="Lou00 blog" title="Lou00 blog" type="rss" xmlUrl="https://blog.lou00.top/atom.xml" htmlUrl="https://blog.lou00.top/"/>
       <outline text="Misaki's Blog" title="Misaki's Blog" type="rss" xmlUrl="https://misakikata.github.io/atom.xml" htmlUrl="https://misakikata.github.io/"/>
       <outline text="CTFtime.org: New writeups" title="CTFtime.org: New writeups" type="rss" xmlUrl="https://ctftime.org/writeups/rss/" htmlUrl="http://ctftime.org/writeups/rss/"/>
-      <outline text="Teck_k2" title="Teck_k2" type="rss" xmlUrl="https://teckk2.github.io/feed.xml" htmlUrl="https://teckk2.github.io//"/>
+      <outline text="MoeLove" title="MoeLove" type="rss" xmlUrl="https://moelove.info/index.xml" htmlUrl="https://moelove.info/"/>
       <outline text="K0rz3n's Blog" title="K0rz3n's Blog" type="rss" xmlUrl="https://www.k0rz3n.com/atom.xml" htmlUrl="http://www.k0rz3n.com/"/>
+      <outline text="Teck_k2" title="Teck_k2" type="rss" xmlUrl="https://teckk2.github.io/feed.xml" htmlUrl="https://teckk2.github.io//"/>
+      <outline text="Ryze-T" title="Ryze-T" type="rss" xmlUrl="https://ryze-t.com/feed.xml" htmlUrl="http://ryze-t.com/"/>
       <outline text="Woojay's Blog" title="Woojay's Blog" type="rss" xmlUrl="https://blog.blankshell.com/feed/" htmlUrl="https://blog.blankshell.com/"/>
+      <outline text="LoRexxar's Blog" title="LoRexxar's Blog" type="rss" xmlUrl="https://lorexxar.cn/atom.xml" htmlUrl="http://lorexxar.cn/"/>
+      <outline text="hacksome" title="hacksome" type="rss" xmlUrl="https://hackso.me/feed.xml" htmlUrl="https://hackso.me/"/>
       <outline text="我是killer" title="我是killer" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/258965/rss/" htmlUrl="http://feed.cnblogs.com/blog/u/258965/rss/"/>
       <outline text="360 核心安全技术博客" title="360 核心安全技术博客" type="rss" xmlUrl="https://blogs.360.cn/rss.html" htmlUrl="https://blogs.360.cn/"/>
       <outline text="Cyber Security Blog" title="Cyber Security Blog" type="rss" xmlUrl="https://securitytrails.com/blog.rss" htmlUrl="https://securitytrails.com/blog.rss"/>
@@ -63,21 +73,27 @@
       <outline text="MrSh3rl0ck's blog" title="MrSh3rl0ck's blog" type="rss" xmlUrl="http://www.sherlocklee.top/atom.xml" htmlUrl="http://www.sherlocklee.top/"/>
       <outline text="EVE" title="EVE" type="rss" xmlUrl="http://www.ji4n.cn/index.php/feed/" htmlUrl="http://www.ji4n.cn/"/>
       <outline text="0XAXSDD 红队之路" title="0XAXSDD 红队之路" type="rss" xmlUrl="http://www.redteamsdd.com/index.php/feed/" htmlUrl="http://www.redteamsdd.com/"/>
+      <outline text="NepCodeX" title="NepCodeX" type="rss" xmlUrl="https://nepcodex.com/feed/" htmlUrl="https://nepcodex.com/"/>
       <outline text="Hacking Articles" title="Hacking Articles" type="rss" xmlUrl="https://www.hackingarticles.in/feed/" htmlUrl="https://www.hackingarticles.in/"/>
     </outline>
     <outline text="04-重点关注" title="04-重点关注">
+      <outline text="九零 - 专注于信息安全研究 - 最新帖子" title="九零 - 专注于信息安全研究 - 最新帖子" type="rss" xmlUrl="https://forum.90sec.com/posts.rss" htmlUrl="https://forum.90sec.com/"/>
+      <outline text="Bug Alert" title="Bug Alert" type="rss" xmlUrl="https://bugalert.org/feeds/all.atom.xml" htmlUrl="https://bugalert.org/"/>
+      <outline text="Rootsploit" title="Rootsploit" type="rss" xmlUrl="https://rootsploit.com/feed/" htmlUrl="https://rootsploit.com/"/>
+      <outline text="Driver Tom's Blog" title="Driver Tom's Blog" type="rss" xmlUrl="https://drivertom.blogspot.com/feeds/posts/default" htmlUrl="https://drivertom.blogspot.com/"/>
+      <outline text="博客园_bmjoker's blog" title="博客园_bmjoker's blog" type="rss" xmlUrl="https://www.cnblogs.com/bmjoker/rss" htmlUrl="https://www.cnblogs.com/bmjoker/rss"/>
       <outline text="RootFlag.io" title="RootFlag.io" type="rss" xmlUrl="https://rootflag.io/rss/" htmlUrl="https://rootflag.io/"/>
       <outline text="面向信仰编程 - Articles" title="面向信仰编程 - Articles" type="rss" xmlUrl="https://draveness.me/feed.xml" htmlUrl="https://draveness.me/"/>
-      <outline text="安全师" title="安全师" type="rss" xmlUrl="http://211.159.227.181:3000/users/1/web_requests/62/a-secret-key.xml" htmlUrl="https://localhost:3000"/>
       <outline text="FishM4n" title="FishM4n" type="rss" xmlUrl="https://www.bugku.net/feed/" htmlUrl="https://www.bugku.net/"/>
       <outline text="XPN InfoSec Blog" title="XPN InfoSec Blog" type="rss" xmlUrl="https://blog.xpnsec.com/rss.xml" htmlUrl="https://blog.xpnsec.com/"/>
       <outline text="博客园_skyxmao" title="博客园_skyxmao" type="rss" xmlUrl="https://www.cnblogs.com/skyxmao/rss" htmlUrl="https://www.cnblogs.com/skyxmao/rss"/>
       <outline text="赵" title="赵" type="rss" xmlUrl="https://www.zhaoj.in/feed" htmlUrl="https://www.zhaoj.in/"/>
       <outline text="博客园_春告鳥" title="博客园_春告鳥" type="rss" xmlUrl="https://www.cnblogs.com/Cl0ud/rss" htmlUrl="https://www.cnblogs.com/Cl0ud/rss"/>
       <outline text="Didier Stevens" title="Didier Stevens" type="rss" xmlUrl="https://blog.didierstevens.com/feed/" htmlUrl="http://blog.didierstevens.com"/>
-      <outline text="Rootsploit" title="Rootsploit" type="rss" xmlUrl="https://rootsploit.com/feed/" htmlUrl="https://rootsploit.com/"/>
+      <outline text="安全师" title="安全师" type="rss" xmlUrl="http://211.159.227.181:3000/users/1/web_requests/62/a-secret-key.xml" htmlUrl="https://localhost:3000"/>
       <outline text="Building Feedly" title="Building Feedly" type="rss" xmlUrl="http://blog.feedly.com/feed/" htmlUrl="http://blog.feedly.com/"/>
       <outline text="Honoki" title="Honoki" type="rss" xmlUrl="https://honoki.net/feed/" htmlUrl="https://honoki.net/"/>
+      <outline text="TeamsSix" title="TeamsSix" type="rss" xmlUrl="https://teamssix.com/atom.xml" htmlUrl="https://www.teamssix.com/"/>
       <outline text="360 CERT" title="360 CERT" type="rss" xmlUrl="https://cert.360.cn/feed" htmlUrl="https://cert.360.cn/"/>
       <outline text="NaviSec Delta" title="NaviSec Delta" type="rss" xmlUrl="https://delta.navisec.io/rss/" htmlUrl="https://delta.navisec.io/"/>
       <outline text="Red Team Tips" title="Red Team Tips" type="rss" xmlUrl="https://redteamer.tips/feed/" htmlUrl="https://redteamer.tips/"/>
@@ -154,8 +170,9 @@
       <outline text="安全客" title="安全客" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/wechat/ershicimi/PQDpkmQW" htmlUrl="https://www.ershicimi.com/a/PQDpkmQW"/>
     </outline>
     <outline text="07-github" title="07-github">
-      <outline text="FanqXu's GitHub repositories" title="FanqXu's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/FanqXu" htmlUrl="https://github.com/FanqXu"/>
+      <outline text="Recent Commits to cve:main" title="Recent Commits to cve:main" type="rss" xmlUrl="https://github.com/trickest/cve/commits/main.atom" htmlUrl="https://github.com/trickest/cve/commits/main"/>
       <outline text="vulnserver" title="vulnserver" type="rss" xmlUrl="https://github.com/stephenbradshaw/vulnserver/commits/master.atom" htmlUrl="https://github.com/stephenbradshaw/vulnserver/commits/master"/>
+      <outline text="dr0op’s starred repositories" title="dr0op’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/dr0op" htmlUrl="https://github.com/dr0op?tab=stars"/>
       <outline text="yhy0’s starred repositories" title="yhy0’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/yhy0" htmlUrl="https://github.com/yhy0?tab=stars"/>
       <outline text="Echocipher/AUTO-EARN’s stargazers" title="Echocipher/AUTO-EARN’s stargazers" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/stars/Echocipher/AUTO-EARN" htmlUrl="https://github.com/Echocipher/AUTO-EARN/stargazers"/>
       <outline text="r0eXpeR's GitHub repositories" title="r0eXpeR's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/r0eXpeR" htmlUrl="https://github.com/r0eXpeR"/>
@@ -169,7 +186,7 @@
       <outline text="02bx's GitHub repositories" title="02bx's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/02bx" htmlUrl="https://github.com/02bx"/>
       <outline text="timwhitez's GitHub repositories" title="timwhitez's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/timwhitez" htmlUrl="https://github.com/timwhitez"/>
       <outline text="pikpikcu's GitHub repositories" title="pikpikcu's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/pikpikcu" htmlUrl="https://github.com/pikpikcu"/>
-      <outline text="dr0op’s starred repositories" title="dr0op’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/dr0op" htmlUrl="https://github.com/dr0op?tab=stars"/>
+      <outline text="FanqXu's GitHub repositories" title="FanqXu's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/FanqXu" htmlUrl="https://github.com/FanqXu"/>
       <outline text="houjingyi233's GitHub repositories" title="houjingyi233's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/houjingyi233" htmlUrl="https://github.com/houjingyi233"/>
       <outline text="3xp10it's GitHub repositories" title="3xp10it's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/3xp10it" htmlUrl="https://github.com/3xp10it"/>
       <outline text="lengjibo’s starred repositories" title="lengjibo’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/lengjibo" htmlUrl="https://github.com/lengjibo?tab=stars"/>
@@ -197,20 +214,20 @@
       <outline text="PayloadsAllTheThings" title="PayloadsAllTheThings" type="rss" xmlUrl="https://github.com/swisskyrepo/PayloadsAllTheThings/commits/master.atom" htmlUrl="https://github.com/swisskyrepo/PayloadsAllTheThings/commits/master"/>
       <outline text="WebAliveScan:master" title="WebAliveScan:master" type="rss" xmlUrl="https://github.com/broken5/WebAliveScan/commits/master.atom" htmlUrl="https://github.com/broken5/WebAliveScan/commits/master"/>
       <outline text="Recent Commits to Middleware-Vulnerability-detection:master" title="Recent Commits to Middleware-Vulnerability-detection:master" type="rss" xmlUrl="https://github.com/mai-lang-chai/Middleware-Vulnerability-detection/commits/master.atom" htmlUrl="https://github.com/mai-lang-chai/Middleware-Vulnerability-detection/commits/master"/>
-      <outline text="zhzyker’s starred repositories" title="zhzyker’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/zhzyker" htmlUrl="https://github.com/zhzyker?tab=stars"/>
       <outline text="jas502n’s starred repositories" title="jas502n’s starred repositories" type="rss" xmlUrl="https://rsshub.app/github/starred_repos/jas502n" htmlUrl="https://github.com/jas502n?tab=stars"/>
-      <outline text="pureqh's GitHub repositories" title="pureqh's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/pureqh" htmlUrl="https://github.com/pureqh"/>
-      <outline text="pureqh – pureqh" title="pureqh – pureqh" type="rss" xmlUrl="https://pureqh.top/?feed=rss2&amp;author=1" htmlUrl="https://pureqh.top/"/>
-      <outline text="Mr-xn’s starred repositories" title="Mr-xn’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/Mr-xn" htmlUrl="https://github.com/Mr-xn?tab=stars"/>
-      <outline text="pureqh’s starred repositories" title="pureqh’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/pureqh" htmlUrl="https://github.com/pureqh?tab=stars"/>
       <outline text="learn365" title="learn365" type="rss" xmlUrl="https://github.com/harsh-bothra/learn365/commits/main.atom" htmlUrl="https://github.com/harsh-bothra/learn365/commits/main"/>
+      <outline text="zhzyker’s starred repositories" title="zhzyker’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/zhzyker" htmlUrl="https://github.com/zhzyker?tab=stars"/>
+      <outline text="pureqh's GitHub repositories" title="pureqh's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/pureqh" htmlUrl="https://github.com/pureqh"/>
+      <outline text="Mr-xn’s starred repositories" title="Mr-xn’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/Mr-xn" htmlUrl="https://github.com/Mr-xn?tab=stars"/>
       <outline text="jweny’s starred repositories" title="jweny’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/jweny" htmlUrl="https://github.com/jweny?tab=stars"/>
+      <outline text="pureqh – pureqh" title="pureqh – pureqh" type="rss" xmlUrl="https://pureqh.top/?feed=rss2&amp;author=1" htmlUrl="https://pureqh.top/"/>
+      <outline text="pureqh’s starred repositories" title="pureqh’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/pureqh" htmlUrl="https://github.com/pureqh?tab=stars"/>
       <outline text="jweny's GitHub repositories" title="jweny's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/jweny" htmlUrl="https://github.com/jweny"/>
-      <outline text="dr0op's GitHub repositories" title="dr0op's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/dr0op" htmlUrl="https://github.com/dr0op"/>
       <outline text="FunnyWolf’s starred repositories" title="FunnyWolf’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/FunnyWolf" htmlUrl="https://github.com/FunnyWolf?tab=stars"/>
-      <outline text="FishM4n's GitHub repositories" title="FishM4n's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/FishM4n" htmlUrl="https://github.com/FishM4n"/>
       <outline text="yhy0's GitHub repositories" title="yhy0's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/yhy0" htmlUrl="https://github.com/yhy0"/>
       <outline text="SeikoSrp’s starred repositories" title="SeikoSrp’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/SeikoSrp" htmlUrl="https://github.com/SeikoSrp?tab=stars"/>
+      <outline text="FishM4n's GitHub repositories" title="FishM4n's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/FishM4n" htmlUrl="https://github.com/FishM4n"/>
+      <outline text="dr0op's GitHub repositories" title="dr0op's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/dr0op" htmlUrl="https://github.com/dr0op"/>
       <outline text="meizjm3i's GitHub repositories" title="meizjm3i's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/meizjm3i" htmlUrl="https://github.com/meizjm3i"/>
       <outline text="cwkiller’s starred repositories" title="cwkiller’s starred repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/starred_repos/cwkiller" htmlUrl="https://github.com/cwkiller?tab=stars"/>
       <outline text="cwkiller's GitHub repositories" title="cwkiller's GitHub repositories" type="rss" xmlUrl="https://liangchengrss.herokuapp.com/github/repos/cwkiller" htmlUrl="https://github.com/cwkiller"/>
@@ -222,6 +239,8 @@
     <outline text="08-漏洞监控" title="08-漏洞监控">
       <outline text="Exploit-DB.com's Google Hacking Database RSS Feed" title="Exploit-DB.com's Google Hacking Database RSS Feed" type="rss" xmlUrl="https://www.exploit-db.com/rss___ghdb.xml" htmlUrl="https://old.exploit-db.com/google-hacking-database/"/>
       <outline text="PwnWiki  - Recent changes [zh-Hant]" title="PwnWiki  - Recent changes [zh-Hant]" type="rss" xmlUrl="https://www.pwnwiki.org/index.php?title=Special:RecentChanges&amp;feed=atom" htmlUrl="https://www.pwnwiki.org/index.php?title=Special:RecentChanges"/>
+      <outline text="Sploitus.com Exploits RSS Feed" title="Sploitus.com Exploits RSS Feed" type="rss" xmlUrl="https://sploitus.com/atom" htmlUrl="https://sploitus.com/"/>
+      <outline text="Packet Storm" title="Packet Storm" type="rss" xmlUrl="https://rss.packetstormsecurity.com/" htmlUrl="https://packetstormsecurity.com/"/>
       <outline text="工控漏洞库 -- VULHUB" title="工控漏洞库 -- VULHUB" type="rss" xmlUrl="http://cve.scap.org.cn/view/ics/recent_published.xml" htmlUrl="http://cve.scap.org.cn/view/ics"/>
       <outline text="vuldb.com" title="vuldb.com" type="rss" xmlUrl="https://vuldb.com/en/?rss.recent" htmlUrl="https://vuldb.com/"/>
       <outline text="Exploit-DB" title="Exploit-DB" type="rss" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com/"/>
@@ -231,6 +250,9 @@
       <outline text="专注APT攻击与防御" title="专注APT攻击与防御" type="rss" xmlUrl="https://micropoor.blogspot.com/feeds/posts/default" htmlUrl="http://micropoor.blogspot.com/"/>
       <outline text="小众软件" title="小众软件" type="rss" xmlUrl="http://feed.appinn.com/" htmlUrl="http://www.appinn.com/"/>
       <outline text="少数派" title="少数派" type="rss" xmlUrl="http://sspai.com/feed" htmlUrl="http://sspai.com/feed"/>
+      <outline text="jkgtw's blog " title="jkgtw's blog " type="rss" xmlUrl="https://feeds.feedburner.com/jkgtw/" htmlUrl="https://www.jkg.tw/"/>
+      <outline text="构建我的被动收入" title="构建我的被动收入" type="rss" xmlUrl="https://www.bmpi.dev/index.xml" htmlUrl="https://www.bmpi.dev"/>
+      <outline text="Decohack" title="Decohack" type="rss" xmlUrl="https://www.decohack.com/feed" htmlUrl="https://www.decohack.com/"/>
     </outline>
     <outline text="10medium" title="10medium">
       <outline text="Shivam Kamboj Dattana" title="Shivam Kamboj Dattana" type="rss" xmlUrl="https://medium.com/feed/@sechunter" htmlUrl="https://medium.com/@sechunter?source=rss-a5a3585f2b17------2"/>
@@ -241,6 +263,25 @@
       <outline text="Stories by Bbinfosec on Medium" title="Stories by Bbinfosec on Medium" type="rss" xmlUrl="https://medium.com/feed/@vignesh4303" htmlUrl="https://medium.com/@vignesh4303?source=rss-d9a20c37247e------2"/>
       <outline text="Stories by Shrey Shah (Jerry) on Medium" title="Stories by Shrey Shah (Jerry) on Medium" type="rss" xmlUrl="https://medium.com/feed/@shahjerry33" htmlUrl="https://medium.com/@shahjerry33?source=rss-f60cf954292f------2"/>
       <outline text="Notion Articles - Red Gregory" title="Notion Articles - Red Gregory" type="rss" xmlUrl="https://www.redgregory.com/notion?format=rss" htmlUrl="https://www.redgregory.com/notion/"/>
+    </outline>
+    <outline text="11-youtube" title="11-youtube">
+      <outline text="LiveOverflow" title="LiveOverflow" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w" htmlUrl="http://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"/>
+      <outline text="Bugcrowd" title="Bugcrowd" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo1NHk_bgbAbDBc4JinrXww" htmlUrl="https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww"/>
+      <outline text="Nahamsec" title="Nahamsec" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCZDt7MuC3Hzs6IH4xODLBw" htmlUrl="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw"/>
+      <outline text="STÖK" title="STÖK" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQN2DsjnYH60SFBIA6IkNwg" htmlUrl="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg"/>
+      <outline text="0xdf hacks stuff" title="0xdf hacks stuff" type="rss" xmlUrl="https://0xdf.gitlab.io/feed.xml" htmlUrl="https://0xdf.gitlab.io/"/>
+    </outline>
+    <outline text="12-播客" title="12-播客">
+      <outline text="足元注意" title="足元注意" type="rss" xmlUrl="https://amcy.fm/rss" htmlUrl="https://amcy.fm/"/>
+      <outline text="读来依然" title="读来依然" type="rss" xmlUrl="http://yir.me/feed" htmlUrl="http://yir.me/"/>
+    </outline>
+    <outline text="13-ctf" title="13-ctf">
+      <outline text="gml's blog" title="gml's blog" type="rss" xmlUrl="https://igml.top/atom.xml" htmlUrl="https://igml.top/"/>
+      <outline text="Alex's blog~" title="Alex's blog~" type="rss" xmlUrl="https://la13x.github.io/atom.xml" htmlUrl="http://example.com/"/>
+      <outline text="CTFHub" title="CTFHub" type="rss" xmlUrl="https://writeup.ctfhub.com/atom.xml" htmlUrl="https://writeup.ctfhub.com/"/>
+      <outline text="IoTDunia-Helping you to succeed with the Internet of Things" title="IoTDunia-Helping you to succeed with the Internet of Things" type="rss" xmlUrl="https://iotdunia.com/feed/" htmlUrl="https://iotdunia.com/"/>
+      <outline text="yuf1sher's blog" title="yuf1sher's blog" type="rss" xmlUrl="http://www.yuf1sher.xyz/index.php/feed/" htmlUrl="http://www.yuf1sher.xyz/"/>
+      <outline text="The blog of mklkx" title="The blog of mklkx" type="rss" xmlUrl="http://www.mklkx.xyz/atom.xml" htmlUrl="http://mklkx.github.io/"/>
     </outline>
   </body>
 </opml>
